@@ -3,7 +3,7 @@ The last color palette you'll ever need.
 
 ## Available for:
 * Web (Works in most browsers)
-* Linux (Using Gtk and Vala)
+* Linux (Built with Gtk and Vala)
 
 
 ## Color Formats
@@ -19,5 +19,5 @@ The last color palette you'll ever need.
 * Named
 * Ubuntu
 
-
-
+## License
+This project is released under the MIT License.
