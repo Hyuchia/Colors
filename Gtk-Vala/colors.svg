@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="400"
+   viewBox="0 0 400 400.00001"
+   id="svg3395"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="colors.svg">
+  <defs
+     id="defs3397" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="116.22383"
+     inkscape:cy="159.50815"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="736"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3400">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-652.36216)">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="path5576"
+       cx="199.00006"
+       cy="845.78595"
+       rx="117.1777"
+       ry="94.449265" />
+    <g
+       style="fill:#f7f7f7;stroke:none"
+       sketch:type="MSShapeGroup"
+       id="plainicon.com-40843-svg"
+       transform="translate(148.57143,278.07649)">
+      <g
+         id="g20"
+         style="fill:#ff2a68;fill-opacity:1;stroke:none;stroke-opacity:1"
+         transform="translate(-148.57143,374.28567)">
+        <path
+           inkscape:connector-curvature="0"
+           id="Shape"
+           d="M 200,0 C 89.55,0 0,89.533333 0,200 0,310.46667 89.55,400 200,400 310.45,400 400,310.46667 400,200 400,89.533333 310.45,0 200,0 l 0,0 z m -0.61667,287.05 c -62.5,0 -6.76666,-33.51667 -24.65,-52.6 -5.9,-6.28333 -13.76666,-8.16667 -22.43333,-8.16667 -12.83333,0 -27.33333,4.15 -39.4,4.15 -14.833333,0 -26.033333,-6.25 -26.033333,-34 0,-50.05 50.366663,-90.63333 112.500003,-90.63333 62.15,0 112.5,40.58333 112.5,90.63333 0,50.05 -50.35,90.61667 -112.48334,90.61667 l 0,0 z"
+           style="fill:#ff2a68;fill-opacity:1;stroke:none;stroke-opacity:1" />
+        <circle
+           r="15.633333"
+           cy="171.41667"
+           cx="133.75"
+           id="Oval"
+           style="fill:#ff2a68;fill-opacity:1;stroke:none;stroke-opacity:1" />
+        <circle
+           r="15.633333"
+           cy="165.16667"
+           cx="265"
+           id="circle24"
+           style="fill:#ff2a68;fill-opacity:1;stroke:none;stroke-opacity:1" />
+        <circle
+           r="15.633333"
+           cy="140.16667"
+           cx="221.25"
+           id="circle26"
+           style="fill:#ff2a68;fill-opacity:1;stroke:none;stroke-opacity:1" />
+        <ellipse
+           ry="15.633333"
+           rx="21.883333"
+           cy="258.91666"
+           cx="215"
+           id="ellipse28"
+           style="fill:#ff2a68;fill-opacity:1;stroke:none;stroke-opacity:1" />
+        <circle
+           r="15.633333"
+           cy="140.16667"
+           cx="177.5"
+           id="circle30"
+           style="fill:#ff2a68;fill-opacity:1;stroke:none;stroke-opacity:1" />
+        <circle
+           r="15.633333"
+           cy="208.91667"
+           cx="277.5"
+           id="circle32"
+           style="fill:#ff2a68;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

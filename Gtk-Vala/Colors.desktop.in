@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Colors
+Comment=The last color palette you'll ever need.
+Exec=@prefix@/bin/Colors
+Icon=colors.svg
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Utility;

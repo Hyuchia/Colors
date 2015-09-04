@@ -4,7 +4,7 @@ $(document).ready(function(){
 	$("#"+$("select").val()).show();
 
 
-	$("span").click(function(){
+	$("[data-hex]").click(function(){
 		 window.prompt("Copy to clipboard: Ctrl+C, Enter", $(this).data($("[type='radio']:checked").val()));
 	});
 
